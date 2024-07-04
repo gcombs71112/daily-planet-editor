@@ -15,7 +15,7 @@ function whoWins(isThereKryptonite, enemyName) {
     if (!isThereKryptonite) {
         return "Superman beats " + enemyName + ", of course";
     } else {
-        return "Depends on how quick Superman can get rid of the Kryptonite. " + enemyname + " could possibly win this one.";
+        return "Depends on how quick Superman can get rid of the Kryptonite. " + enemyName + " could possibly win this one.";
     }
 }
 
